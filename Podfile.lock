@@ -1,0 +1,61 @@
+PODS:
+  - CocoaLumberjack/Default (3.1.0)
+  - CocoaLumberjack/Swift (3.1.0):
+    - CocoaLumberjack/Default
+  - Nimble (6.0.1)
+  - Quick (1.1.0)
+  - Realm (2.4.4):
+    - Realm/Headers (= 2.4.4)
+  - Realm/Headers (2.4.4)
+  - RealmSwift (2.4.4):
+    - Realm (= 2.4.4)
+  - ReSwift (3.0.0)
+  - RxBlocking (3.3.1):
+    - RxSwift (~> 3.3)
+  - RxBluetoothKit (3.0.7):
+    - RxSwift (~> 3.2)
+  - RxCocoa (3.3.1):
+    - RxSwift (~> 3.3)
+  - RxDataSources (1.0.3):
+    - RxCocoa (~> 3.0)
+    - RxSwift (~> 3.0)
+  - RxSwift (3.3.1)
+  - RxTest (3.3.1):
+    - RxSwift (~> 3.3)
+  - SCLAlertView (0.7.0)
+  - SVProgressHUD (2.1.2)
+
+DEPENDENCIES:
+  - CocoaLumberjack/Swift
+  - Nimble
+  - Quick
+  - RealmSwift
+  - ReSwift
+  - RxBlocking
+  - RxBluetoothKit
+  - RxCocoa
+  - RxDataSources
+  - RxSwift
+  - RxTest
+  - SCLAlertView
+  - SVProgressHUD
+
+SPEC CHECKSUMS:
+  CocoaLumberjack: 8311463ddf9ee86a06ef92a071dd656c89244500
+  Nimble: 1527fd1bd2b4cf0636251a36bc8ab37e81da8347
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+  Realm: 5a280a1f5a9a3c267bebf4f41ee47911137703d7
+  RealmSwift: 0c02b9f2d4be4301c497ed10e53a0580584eb1dd
+  ReSwift: f0255f4b4f2dacd12c5d97d34d13fc5dad6d6371
+  RxBlocking: c5918ecb86b8c205a8ccc6d1ff2abb338ddc50a0
+  RxBluetoothKit: edf26cc5a1edbee8eff59cb9d0af88ac4e95c847
+  RxCocoa: 7dcb7a1860fc9cd0e23dae67ab105fc2916670b6
+  RxDataSources: a021a0e944ba5f7991259829d973afdbfa719c0b
+  RxSwift: 8fc9f2de6275a9101d518444e00bf32f1a42caac
+  RxTest: f4e7360033fafa743f2f85097efa958402ed442a
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SVProgressHUD: c404a55d78acbeb7ebb78b76d3faf986475a6994
+
+PODFILE CHECKSUM: 8a35e050b9c096b8f3a8f6ef503c6a43237ee8e0
+
+COCOAPODS: 1.1.1
